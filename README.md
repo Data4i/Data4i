@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Data4i
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently improving in Sckit-Learn
+- 🌱 I’m a Machine Learning Engineer
 - 💞️ I’m looking to collaborate on Some Machine Learning projects
 - 📫 How to reach me paulobiahu@gmail.com, 234810116037
 
