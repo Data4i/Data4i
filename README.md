@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Data4i
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m a Machine Learning Engineer
 - 💞️ I’m looking to collaborate on Some Machine Learning projects
